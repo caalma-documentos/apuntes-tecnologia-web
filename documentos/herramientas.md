@@ -1,5 +1,3 @@
-
-
 # herramientas
 
 https://www.w3docs.com/css3-maker/text-shadow

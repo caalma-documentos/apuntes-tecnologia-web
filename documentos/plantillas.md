@@ -1,7 +1,6 @@
 # plantillas
 
 
-
 https://ryanstutorials.net/html-tutorial/html-template.php
 
 

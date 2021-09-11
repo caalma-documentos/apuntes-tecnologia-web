@@ -1,6 +1,5 @@
 # html
 
-
 https://www.w3docs.com/learn-html.html
 
 https://html5test.com/
@@ -64,7 +63,6 @@ https://www.w3schools.com/tags/default.asp
 https://www.w3schools.com/tags/ref_html_browsersupport.asp
 
 https://developer.mozilla.org/es/docs/Web/Accessibility/ARIA
-
 
 ## meta
 https://en.wikipedia.org/wiki/JSON-LD
