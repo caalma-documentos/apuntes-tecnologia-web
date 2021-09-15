@@ -33,13 +33,6 @@ url
 	https://developer.mozilla.org/en-US/docs/Web/CSS/url()
 
 
-## comentarios
-...
-
-
-## tipos de elemento
-bloque, linea, flex
-
 
 ## unidades de medida
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Values_and_Units
@@ -92,10 +85,13 @@ https://www.w3docs.com/learn-css/css-gradients.html
 https://www.colorzilla.com/gradient-editor/ 
 
 transformaciones 
-https://www.w3schools.com/css/css3_2dtransforms.asp 
-https://www.w3schools.com/css/css3_3dtransforms.asp 
+https://cssanimation.rocks/space-transitions/
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Functions#transform_functions 
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transforms/Using_CSS_transforms
+https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate()
+https://learn.shayhowe.com/advanced-html-css/css-transforms/
+https://www.w3schools.com/css/css3_2dtransforms.asp 
+https://www.w3schools.com/css/css3_3dtransforms.asp 
 
 
 ## transiciones
@@ -112,6 +108,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/grayscale()
 https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function
 
 ## composicion
+https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
 https://www.w3docs.com/learn-css/box-sizing.html
 https://way2tutorial.com/css/css-layout-box-model-tutorial.php
 https://www.w3schools.com/css/css3_object-position.asp
@@ -228,6 +225,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Split_Navigatio
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout
 https://www.w3docs.com/learn-css/the-ultimate-guide-to-flexbox.html
 https://www.w3schools.com/css/css3_flexbox.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Mastering_Wrapping_of_Flex_Items
 
 
 ## grid
@@ -313,3 +311,10 @@ https://www.youtube.com/watch?v=Of2ep1jJpqU # 7 Páginas Imprescindibles de Icon
 https://www.youtube.com/watch?v=5BicGUzUidU # Página web a Pantalla Completa con Trasiciones CSS3 - FullPage.js
 https://www.youtube.com/watch?v=OWKXEJN67FE # Curso de CSS desde CERO (Completo)
 https://www.youtube.com/watch?v=24gNhTcy6pw&list=PLhSj3UTs2_yU0fGoS1bjpHqky4kCEmTbR
+
+https://www.youtube.com/watch?v=hgqHPLU-qIE # Water Drops - Drawing with Html & CSS Only
+https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog # Online Tutorials
+
+
+## ejemplos
+https://github.com/mdn/css-examples
